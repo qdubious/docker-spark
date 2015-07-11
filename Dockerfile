@@ -1,4 +1,4 @@
-FROM sequenceiq/hadoop
+FROM sequenceiq/hadoop-docker:2.6.0
 MAINTAINER Charlie Pence
 
 #support for Hadoop 2.6.0
